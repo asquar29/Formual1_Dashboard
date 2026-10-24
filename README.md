@@ -153,5 +153,5 @@ Make sure there is a blank line here.
 ### 1) Clone the repository
 
 ````powershell
-git clone https://github.com/krscribbles/Formula-1-Dashboard.git
+git clone https://github.com/asquar29/Formual1_Dashboard.git
 cd Formula-1-Dashboard
